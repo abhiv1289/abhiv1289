@@ -1,12 +1,9 @@
-<h1 align="center">🚀 Abhishek Vishwakarma | Software Developer</h1>  
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWU2Z3huMmRobTdlajMxNWZrZ25sMzZyZGQ2bHZtczExdW1xOGJ4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bcKmIWkUMCjVm/giphy.gif" width="80%">
-</p>
+
+
 
 ## 💻 About Me  
-Hi! I'm **Abhishek Vishwakarma**, a passionate **MCA student at MNNIT Allahabad** with a keen interest in **Web Development, Competitive Programming, and Data Structures**.  
-I enjoy building scalable web applications and solving complex problems through code.  
+I’m Abhishek Vishwakarma, a tech enthusiast passionate about Web Development, Competitive Programming, and Data Structures & Algorithms. I enjoy building scalable applications, solving complex problems, and continuously exploring new technologies to enhance my skills. 🚀
 
 ---
 
@@ -26,16 +23,26 @@ I enjoy building scalable web applications and solving complex problems through 
 
 ---
 
-## 🛠️ Projects  
-### 🚀 [Vellura: Mental Health Companion](https://github.com/Artemis1096/Vellura-Mental-Health-Project)  
-A digital mental health platform with AI-powered guidance, journaling, and mood tracking.  
-🛠️ **Tech Stack:** React.js, Redux, Tailwind CSS, Node.js, Express.js, MongoDB, Cloudinary, JWT/OAuth  
+🛠️ Projects
+🚀 Vellura: Mental Health Companion
+A comprehensive mental health platform featuring AI-driven guidance, journaling, and mood tracking to support emotional well-being.
+🛠 Tech Stack: React.js, Redux, Tailwind CSS, Node.js, Express.js, MongoDB, Cloudinary, JWT/OAuth
 
-### 💬 [ChillOut: Real-Time Chat Application](https://github.com/abhiv1289/ChillOut/)  
-A modern real-time chat app with messaging, media sharing, and online status tracking.  
-🛠️ **Tech Stack:** React.js, Redux, Tailwind CSS, Node.js, Express.js, MongoDB, Socket.io, JWT/OAuth  
+💬 ChillOut: Real-Time Chat Application
+A feature-rich real-time chat application enabling seamless messaging, media sharing, and online status tracking.
+🛠 Tech Stack: React.js, Redux, Tailwind CSS, Node.js, Express.js, MongoDB, Socket.io, JWT/OAuth
 
----
+
+📊 GitHub Stats
+Overall Performance: Showcasing my contributions, repositories, and activity.
+![abhiv1289's Stats](https://github-readme-stats.vercel.app/api?username=abhiv1289&theme=dark&show_icons=true&hide_border=false&count_private=true)
+
+Coding Streak: Highlighting my consistency and dedication to coding.
+![abhiv1289's Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhiv1289&theme=dark&hide_border=false)
+
+Top Languages: Displaying the languages I use most frequently.
+![abhiv1289's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiv1289&theme=dark&show_icons=true&hide_border=false&layout=compact)
+
 
 ## 📊 Competitive Coding Profiles  
 <p align="left">
