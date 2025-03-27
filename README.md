@@ -35,13 +35,12 @@ ChillOut: Real-Time Chat Application
 A modern real-time chat app with messaging, media sharing, and online status tracking.
 🛠️ Tech Stack: React.js, Redux, Tailwind CSS, Node.js, Express.js, MongoDB, Socket.io, JWT/OAuth
 
-📊 Competitive Coding Profiles
-🔥 CodeForces
+## 📊 Competitive Coding Profiles  
 
-🏅 Leetcode
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/abhiv1289/)  
+[![CodeForces](https://img.shields.io/badge/-CodeForces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/abhiv1289)  
+[![GeeksForGeeks](https://img.shields.io/badge/-GeeksForGeeks-0F9D58?style=flat&logo=GeeksForGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/abhiv47k5/)  
+ 
 
-📚 GeeksForGeeks
-
-🍽️ CodeChef
 
 📫 Connect With Me
