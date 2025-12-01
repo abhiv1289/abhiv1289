@@ -1,27 +1,24 @@
-🚀 Abhishek Vishwakarma | Tech Enthusiast
-💻 About Me
-I'm a passionate Web Developer & Competitive Programmer with a strong grasp of Data Structures & Algorithms. I love building scalable applications, solving complex problems, and constantly exploring new technologies to push my limits.
+# 💫 About Me:
+Abhishek Vishwakarma | Tech Enthusiast 💻 About Me I'm a passionate Web Developer & Competitive Programmer with a strong grasp of Data Structures & Algorithms. I love building scalable applications, solving complex problems, and constantly exploring new technologies to push my limits.
 
-🔥 Tech Stack
-🔹 Languages: C/C++, JavaScript, HTML/CSS
-🔹 Frontend: React.js, Redux, Tailwind CSS
-🔹 Backend: Node.js, Express.js
-🔹 Database: MongoDB
-🔹 Tools: Git/GitHub, VS Code
-🔹 Interests: Data Structures, Competitive Programming, Web Development
 
-🛠️ Projects
-🚀 Vellura: Mental Health Companion
-A digital mental health platform featuring AI-driven guidance, journaling, and mood tracking to support emotional well-being.
-🛠 Tech Stack: React.js, Redux, Tailwind CSS, Node.js, Express.js, MongoDB, Cloudinary, JWT/OAuth
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_Abhiv_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abhiv1289) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Abhishek Vishwakarma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishekvishwakarma12891@gmail.com) 
 
-💬 ChillOut: Real-Time Chat Application
-A feature-rich real-time chat app enabling seamless messaging, media sharing, and online status tracking.
-🛠 Tech Stack: React.js, Redux, Tailwind CSS, Node.js, Express.js, MongoDB, Socket.io, JWT/OAuth
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Abhiv1289&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Abhiv1289&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiv1289&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhiv1289&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhiv1289&theme=dark&hide_border=false" alt="Coding Streak" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhiv1289&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" /> </p>
-🏆 Competitive Coding Profiles
-<p align="left"> <a href="https://leetcode.com/abhiv1289/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black"></a> <a href="https://codeforces.com/profile/abhiv1289"><img src="https://img.shields.io/badge/-CodeForces-1F8ACB?style=flat&logo=codeforces&logoColor=white"></a> <a href="https://www.geeksforgeeks.org/user/abhiv47k5/"><img src="https://img.shields.io/badge/-GeeksForGeeks-0F9D58?style=flat&logo=GeeksForGeeks&logoColor=white"></a> <a href="https://www.codechef.com/users/abhiv9255"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat&logo=CodeChef&logoColor=white"></a> </p>
-📫 Connect With Me
-<p align="left"> <a href="https://www.linkedin.com/in/abhiv1289/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a> <a href="https://github.com/abhiv1289"><img src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github"></a> </p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Abhiv1289&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Abhiv1289&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
